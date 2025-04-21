@@ -9,5 +9,9 @@
     <h1>Hello</h1>
 
     <h2>Every One</h2>
+    <h2>Every two</h2>
+    <h2>Every three</h2>
+    <h2>Every for</h2>
+    <h2>Every One</h2>
 </body>
 </html>
